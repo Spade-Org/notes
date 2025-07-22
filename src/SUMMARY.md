@@ -9,5 +9,6 @@
   - [Rust Concurrency & Async Pitfalls and Patterns](./sources/Rust-Concurrency-&-Async-Pitfalls-&-Patterns.md)
   - [SpaceTimeDB](./sources/SpaceTimeDB.md)
   - [Physics Solvers comparision](./sources/physics-solvers-comparision.md)
+  - [AVBD](./sources/avbd.md)
 
 - [Thoughts](./thoughts/README.md)
