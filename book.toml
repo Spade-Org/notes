@@ -5,6 +5,5 @@ multilingual = false
 src = "src"
 title = "Ressources"
 
-
 [output.html.fold]
 enable = true
