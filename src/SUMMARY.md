@@ -8,5 +8,7 @@
   - [Protobuf](./sources/Protobuf.md)
   - [Rust Concurrency & Async Pitfalls and Patterns](./sources/Rust-Concurrency-&-Async-Pitfalls-&-Patterns.md)
   - [SpaceTimeDB](./sources/SpaceTimeDB.md)
+  - [Physics Solvers comparision](./sources/physics-solvers-comparision.md)
+  - [Physics Solvers comparision](./sources/physics-solvers-comparision-1.md)
 
 - [Thoughts](./thoughts/README.md)
