@@ -10,5 +10,6 @@
   - [SpaceTimeDB](./sources/SpaceTimeDB.md)
   - [Physics Solvers comparision](./sources/physics-solvers-comparision.md)
   - [AVBD](./sources/avbd.md)
+  - [Physics simulation Book](./sources/physics-simulation-book.md)
 
 - [Thoughts](./thoughts/README.md)
