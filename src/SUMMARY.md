@@ -11,5 +11,6 @@
   - [Physics Solvers comparision](./sources/physics-solvers-comparision.md)
   - [AVBD](./sources/avbd.md)
   - [Physics simulation Book](./sources/physics-simulation-book.md)
+  - [Merging and splitting](./sources/merging-and-splitting.md)
 
 - [Thoughts](./thoughts/README.md)
