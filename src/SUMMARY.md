@@ -12,5 +12,6 @@
   - [AVBD](./sources/avbd.md)
   - [Physics simulation Book](./sources/physics-simulation-book.md)
   - [Merging and splitting](./sources/merging-and-splitting.md)
+  - [Timewarp Rigid Body Simulation](./sources/timewarp-rigid-body-simulation.md)
 
 - [Thoughts](./thoughts/README.md)
